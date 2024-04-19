@@ -1,0 +1,25 @@
+{
+	"itemGroup.ate": "Rauta TNT",
+	
+	"item.ate.flint_and_stone": "Piikivi ja Kivi",
+	"item.ate.vacuum_on_a_stick": "Tyhjiö Kepillä",
+	"item.ate.remote_det": "Kaukoräjäytys-laite K.R.L",
+	
+	"item.ate.throwironex": "Heitettävä Rautaräjähde",
+	"item.ate.throwgoldex": "Heitettävä Kultaräjähde",
+	"item.ate.throwdiamondex": "Heitettävä Timanttiräjähde",
+	
+	"block.ate.blockcobbleex": "Mukulakivi TNT",
+	"block.ate.blockironex": "Rauta TNT",
+	"block.ate.blockgoldex": "Kulta TNT",
+	"block.ate.blockdiamondex": "Timantti TNT",
+	"block.ate.blockbritex": "Brittiläinen TNT",
+	"block.ate.blockradiatingex": "Säteilevä TNT",
+	"block.ate.blockgravityex": "Painovoima TNT",
+	"block.ate.blockdetcord": "Det-Pöly",
+	"block.ate.blockironbarrelex": "Rauta Räjähtävä Tynnyri",
+	"block.ate.blockgoldbarrelex": "Kulta Räjähtävä Tynnyri",
+	"block.ate.blockdiamondbarrelex": "Timantti Räjähtävä Tynnyri",
+	"block.ate.blockenderex": "End-Kivi TNT",
+	"block.ate.blockfireex": "Sytyttävä TNT"
+}
